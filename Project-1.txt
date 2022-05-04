@@ -1,10 +1,11 @@
-content to be posted on GIT HUB
+<!DOCTYPE html>
+<html>
+<body>
 
+<h1>Project using DevOps Tools</h1>
 
-My first project in Git Hub
+<p>My Project on Hosting a site by using Git, Jenkins, Puppet.</p>
 
+</body>
+</html>
 
-1st commit
-
-
-......
