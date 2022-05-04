@@ -1,5 +1,11 @@
-project 2 for testing 
+<!DOCTYPE html>
+<html>
+<body>
 
+<h1>Project using DevOps Tools</h1>
 
+<p>My Project on Hosting a site by using Git, Jenkins, Puppet.</p>
 
-uploading 2nd time
+</body>
+</html>
+
