@@ -2,9 +2,7 @@
 <html>
 <body>
 
-<h1>Project using DevOps Tools</h1>
-
-<p>My Project on Hosting a site by using Git, Jenkins, Puppet.</p>
+Mohan
 
 </body>
 </html>
